@@ -22,3 +22,19 @@ Here is a basic HTML navigation structure:
     </ul>
 </nav>
 ```
+
+## Projects
+### Training tasks
+* **Description:** Small exercises from freeCodeCamp and HTML Academy.
+* **Skills used:** HTML, basic accessibility.
+
+## Courses & Training
+* **HTML for beginners** — YouTube playlist (2025)
+* **Emmet tutorial** — [epixx.github.io/emmet](https://epixx.github.io/emmet)
+
+## Languages
+* **English:** Intermediate (B1).
+* **Russian:** Native.
+
+---
+[Telegram](https://t.me/AnnaKhanum) | [Back to top](#juliana-davydova)
