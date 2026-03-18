@@ -1,6 +1,6 @@
 # Juliana Davydova
 
-<img src="https://avatars.githubusercontent.com/u/198751381?v=4" width="150">
+<img src="https://vk.com/wall-49021612_145" width="150">
 
 ## About Me
 I am a beginner developer focused on learning modern web technologies. I enjoy building clean layouts and exploring how things work under the hood. 
